@@ -1,0 +1,16 @@
+Contact Us --> Customer Service and Feedback
+Item Details -->  Images
+Product Description --> Product Description
+Payment Mothod --> Payment and Shipping
+Return & Refund --> Return Policy
+Shipping --> you can just delete
+
+--These have an underhanging shadow that is needed
+--Above are same size
+
+--Below are same size
+Search our Store --> Store Categories
+Why Shop with US --> About Us
+
+Get a basic texture, color it change the text.
+Get the cpr circle instead of arrow
